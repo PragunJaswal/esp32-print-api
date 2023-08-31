@@ -3,4 +3,5 @@ requests
 bs4
 lxml
 starlette
+jinja2
 uvicorn == 0.21.1
