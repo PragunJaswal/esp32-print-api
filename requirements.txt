@@ -1,0 +1,10 @@
+fastapi
+requests
+os
+random
+bs4
+lxml
+starlette
+uvicorn == 0.21.1
+uuid
+datetime
