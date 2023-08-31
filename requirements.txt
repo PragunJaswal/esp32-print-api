@@ -5,4 +5,6 @@ lxml
 starlette
 jinja2
 python-multipart
+pillow
+io
 uvicorn == 0.21.1
